@@ -64,6 +64,25 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<p> 
+  <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_6118447" matches with the above code: jQuery("#s_lc_event_6118447")  //-->
+<a id="s_lc_event_6118447" href="https://calendar.library.ucla.edu/event/6118447">REGISTER</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_6118447 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #FAF2F2;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_6118447:hover {
+  opacity: 0.9;
+}
+</style>
+</p>
 
 <h2 id="general">General Information</h2>
 
